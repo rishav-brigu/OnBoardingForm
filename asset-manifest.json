@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/onBoardingForm/static/css/main.50cf15b2.css",
+    "main.js": "/onBoardingForm/static/js/main.58b24718.js",
+    "static/media/tick.jpg": "/onBoardingForm/static/media/tick.ed44c729c233471f1a71.jpg",
+    "index.html": "/onBoardingForm/index.html",
+    "main.50cf15b2.css.map": "/onBoardingForm/static/css/main.50cf15b2.css.map",
+    "main.58b24718.js.map": "/onBoardingForm/static/js/main.58b24718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cf15b2.css",
+    "static/js/main.58b24718.js"
+  ]
+}
